@@ -1,0 +1,14 @@
+{
+     "files.associations": {
+          "array": "cpp",
+          "rope": "cpp",
+          "slist": "cpp",
+          "initializer_list": "cpp",
+          "valarray": "cpp",
+          "bitset": "cpp",
+          "utility": "cpp",
+          "list": "cpp",
+          "unordered_map": "cpp",
+          "vector": "cpp"
+     }
+}
