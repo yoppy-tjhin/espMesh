@@ -4,3 +4,6 @@ This sends MeshTopology to serial port, which then received by the Python app on
 The Python app will process the MeshTopology and visualize it.
 Additionally, we can interact with the graph. A click on a node will pop up a dialog box.
 Through the dialog box we can set and read parameters on a node.
+
+The Python app is available at:
+https://github.com/yoppy-tjhin/meshTopologyVisualizer
